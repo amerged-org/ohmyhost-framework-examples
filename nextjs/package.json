@@ -1,0 +1,16 @@
+{
+  "name": "ohmyhost-example-nextjs",
+  "private": true,
+  "version": "1.0.0",
+  "packageManager": "pnpm@10.28.2",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "16.4.3",
+    "react": "19.3.1",
+    "react-dom": "19.3.1"
+  }
+}
