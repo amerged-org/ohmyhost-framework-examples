@@ -6,7 +6,7 @@ Three minimal apps used by the [ohmyho.st framework guides](https://ohmyho.st/fr
 | --- | --- | --- | --- |
 | `nextjs/` | Next.js 16.4 App Router | Worker (OpenNext), server-rendered page and route handler | https://ohmyho.st/frameworks/nextjs |
 | `vite-react/` | Vite 8 + React 19 | Static | https://ohmyho.st/frameworks/vite |
-| `tanstack-start/` | TanStack Start 1.169 | Static (prerendered) | https://ohmyho.st/frameworks/tanstack-start |
+| `tanstack-start/` | TanStack Start 1.169 | Static (prerendered) | https://ohmyho.st/frameworks/tanstack |
 
 ## Check one locally
 
